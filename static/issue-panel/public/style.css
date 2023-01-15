@@ -1,0 +1,73 @@
+html,
+body {
+    height: 100%;
+    width: 100%;
+    background: #0a0a19;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    color: #eee;
+    font-size: 5vmin;
+    font-family: sans-serif;
+}
+
+#inp {
+    background: none;
+    border: none;
+    margin: 2vmin;
+    color:#095309;
+    background-color: aqua;
+}
+
+#inp:focus {
+    outline: none;
+}
+
+#block {
+    padding: 2vmin;
+    background-color: blueviolet;
+}
+
+.fairway {
+    color: #0da50d;
+}
+
+.green {
+    color: #3df03d;
+}
+
+.Bunker {
+    color: #fee87c;
+}
+
+.Water {
+    color: #3232ec;
+}
+
+.Rough {
+    color: #095309;
+}
+
+.ball {
+    background: #fff777;
+}
+
+.hole {
+    color: transparent;
+}
+
+#help {
+    opacity: 0.5;
+    padding: 2vmin;
+}
+
+.grey {
+    opacity: 0.;
+}
+
+.inv {
+    opacity: 0;
+}
