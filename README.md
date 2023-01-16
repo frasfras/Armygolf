@@ -2,6 +2,7 @@
 
 This project contains a Forge app written in Javascript that displays `Hello World!` in a Jira issue panel. 
 
+Jira App based on idea for golf game
 See [developer.atlassian.com/platform/forge/](https://developer.atlassian.com/platform/forge) for documentation and tutorials explaining Forge.
 
 ## Requirements
